@@ -4,6 +4,7 @@ you can use this image for test purpose docker or k8s
 # build
 
 ```bash
+chmod +x ./build.sh
 ./build.sh
 ```
 
